@@ -53,7 +53,13 @@ l2.removeAll(li);
 System.out.println("l2 is: "+l2);
 
 
+System.out.println("Gokul");
 
+System.out.println("Gokul");
+System.out.println("Gokul");
+System.out.println("Gokul");
+
+System.out.println("Gokul");
 
 
 
