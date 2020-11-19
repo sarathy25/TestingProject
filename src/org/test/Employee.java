@@ -52,6 +52,12 @@ System.out.println(l2);
 l2.removeAll(li);
 System.out.println("l2 is: "+l2);
 
+System.out.println("partha");
+
+System.out.println("partha");
+System.out.println("partha");
+System.out.println("partha");
+
 
 
 
